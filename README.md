@@ -19,7 +19,7 @@ Select the VM you want to connect to from the list.
 
 ![Screenshot 2025-01-08 202110](https://github.com/user-attachments/assets/32143f75-736a-4ecc-af07-23345548e0db)
 
-Open remote desktop connection (RDP)
+Open : Remote Desktop Connection (RDP)
 
 : Paste the VM's Public IP and click connect :
 
@@ -30,8 +30,8 @@ Enter Credentials
 Enter the username and password for the VM. (These credentials were set when the VM was created)
 Click OK to connect.
 
-Step 5: Accept the Certificate
+Accept the Certificate
 You may receive a certificate warning. Check the box for Don't ask me again for connections to this computer and click Yes.
 
-Step 6: You're Connected!
+You're Connected!
 You should now be connected to your Azure VM via Remote Desktop.
