@@ -5,7 +5,9 @@ Prerequisites
 An active Azure subscription
 A Windows VM created in Azure
 RDP client installed on your local machine
+
 Step 1: Navigate to Your VM in the Azure Portal
+
 Go to the Azure Portal and sign in with your Azure account.
 In the left-hand menu, select Virtual machines.
 Select the VM you want to connect to from the list.
