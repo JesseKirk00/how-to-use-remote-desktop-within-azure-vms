@@ -1,9 +1,12 @@
-How to Use Remote Desktop Within Azure VMs
+How to Remote Desktop to Azure VMs
 This tutorial will guide you through the process of connecting to an Azure Virtual Machine (VM) using Remote Desktop Protocol (RDP).
 
-Prerequisites
+Prerequisites :
+
 An active Azure subscription
+
 A Windows VM created in Azure
+
 RDP client installed on your local machine
 
 : Navigate to Your VM in the Azure Portal :
