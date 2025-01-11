@@ -21,7 +21,7 @@ Select the VM you want to connect to from the list.
 
 Open : Remote Desktop Connection (RDP)
 
-: Paste the VM's Public IP and Port : 3389 : Click Connect :
+: Paste the VM's Public IP and Port : 3389 - Click Connect =
 
 ![Screenshot 2025-01-08 202233](https://github.com/user-attachments/assets/b6694e5e-a4af-4918-91e9-888402adc25b)
 
